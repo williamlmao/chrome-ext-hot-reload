@@ -1,6 +1,6 @@
 # React Start Kit for Chrome extension with Live Reloading.
 
-I found this boiler plate code from [this tutoria] (https://smellycode.com/chrome-extension-live-reloading-with-react/). It works perfectly for reloading, but I need to be able to inject the React components.
+I found this boiler plate code from [this tutoria](https://smellycode.com/chrome-extension-live-reloading-with-react/). It works perfectly for reloading, but I need to be able to inject the React components.
 
 # Issues
 
@@ -39,6 +39,6 @@ Copy the above code snippet into: `content-script/content-script.js` and follow 
 
 ## To install and enable hot reloading, run:
 
-- `npm run watch
+- `npm run watch`
 - `npm run build`
 - Go to chrome://extensions/ and load the build folder as unpacked
